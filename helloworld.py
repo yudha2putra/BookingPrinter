@@ -9,7 +9,7 @@ from PIL import Image, ImageTk
 
 # ========== Configurations ====================
 
-p = Usb(0x0483, 0x5840, 0, 0x81, 0x03)
+# p = Usb(0x0483, 0x5840, 0, 0x81, 0x03)
 
 BUTTON_BACKGROUND = "white"
 MAIN_FRAME_BACKGROUND = "cornflowerblue"
